@@ -9,7 +9,7 @@ redirect_from:
 
 I am a postdoctoral researcher at [Donostia International Physics Center](https://dipc.ehu.eus/en) in San Sebastian, Spain. I received my PhD in theoretical condensed matter physics from the [University of Zurich](https://www.uzh.ch/en.html) in 2022. 
 
-I study electronic properties of matter that come from an interplay between symmetries, topology and quantum correlations. My research interests lie in the field of topological phases, unconventional superconductivity, low-dimentional correlated materials, their experimental signatures and potential device applications. 
+I study electronic properties of matter that come from an interplay between symmetries, topology and quantum correlations. My research interests lie in the field of topological phases, unconventional superconductivity, one-dimensional correlated systems, their experimental signatures and potential device applications. 
 
 Short CV
 ======
