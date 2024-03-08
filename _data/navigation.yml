@@ -1,19 +1,25 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/    
+    url: /publications/  
+
 
   #- title: "Teaching"
   #  url: /teaching/    
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+
     
+
   - title: "CV"
     url: /cv/
 
-  #- title: "Art"
-  #  url: /portfolio/  
+  - title: "Art"
+    url: /portfolio/  
+
+   
+  #- title: "Ukraine"
+  #  url: /year-archive/
+    
+     
 
   #- title: "Ukraine"
   #  url: /ukraine/

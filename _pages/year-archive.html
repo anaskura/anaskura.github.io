@@ -1,14 +1,26 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: "Blog posts"
+title: "War in Ukraine"
 author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
 ---
 
 {% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
+
+It has been two years since Russia's full-scale invasion of Ukraine. 
+These are links to verified funds and charity organizations. 
+
+
+<p> <a href = "https://scienceforukraine.eu"> <i>Science for Ukraine </i></a>  - information for Ukrainian students and scientists. </p>
+<p> <a href = "https://savelife.in.ua/en/"> <i>Come Back Alive </i></a>  - charity organization that supports Ukrainian military. </p>
+<p> <a href = "https://www.hospitallers.org.uk"> <i>Hospitallers </i></a>  - volunary organization that supports paramedics at the front line. </p>
+<p> <a href = "https://www.leleka.care"> <i>Leleka </i></a>  - volunary organization that helps front-line medical professionals. </p>
+
+
+Do not hesitate to email me for more information.  
+<!--{% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
@@ -16,4 +28,4 @@ redirect_from:
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %}-->
